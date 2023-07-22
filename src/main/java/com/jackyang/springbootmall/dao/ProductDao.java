@@ -1,6 +1,5 @@
 package com.jackyang.springbootmall.dao;
 
-import com.jackyang.springbootmall.constant.ProductCategory;
 import com.jackyang.springbootmall.dto.ProductQueryParams;
 import com.jackyang.springbootmall.dto.ProductRequest;
 import com.jackyang.springbootmall.model.Product;
